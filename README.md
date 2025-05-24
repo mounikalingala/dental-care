@@ -6,9 +6,17 @@ This project was created as part of a Front-End Development Internship assignmen
 ---
 
 ## 📸 Screenshots
+#### Home page
+![Home Page Screenshot](https://res.cloudinary.com/dblomc9cr/image/upload/v1748100559/Screenshot-home_bgrroa.png) 
 
-![Home Page Screenshot](./screenshots/homepage.png)  
-*(Add screenshots in a /screenshots folder if you'd like)*
+
+#### About DentalCare
+![Home Page Screenshot](https://res.cloudinary.com/dblomc9cr/image/upload/v1748100738/Screenshot_2025-05-24_210202_hjowku.png)
+
+
+#### DentalCare services
+![Home Page Screenshot](https://res.cloudinary.com/dblomc9cr/image/upload/v1748100992/Screenshot_2025-05-24_210605_juznk3.png)
+
 
 ---
 
