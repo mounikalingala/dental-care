@@ -69,6 +69,7 @@ The app will run locally at http://localhost:5173
 ## 🌐 Live Demo
 
 🔗 View Live Site
+`https://mounika-dentalcare.netlify.app/`
 
 
 ---
